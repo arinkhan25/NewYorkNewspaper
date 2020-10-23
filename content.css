@@ -1,24 +1,33 @@
 .page {
-  width:
-  height:
+width:auto;
+height:auto;
+
 }
 
 #article_title {
-
+color: darkred;
+font-size: 100px;
 }
 
 #intro {
-
+font-size: 40px;
+color: red;
 }
-
 .question{
-
+font-size: 20px;
+color: grey;
 }
 
 .answer{
-
+font-size: 20px;
+color: grey;
 }
 
 #block_quote {
-
+font-size: 20px;
+color: grey;
+}
+body {
+background-image: url("https://image.shutterstock.com/image-photo/old-newspaper-background-grunge-paper-260nw-1513625615.jpg");
+size: auto;
 }
